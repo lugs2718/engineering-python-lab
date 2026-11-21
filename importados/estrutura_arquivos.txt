@@ -1,0 +1,24 @@
+|-- Projetos-aulas-exercicios
+|   |-- Aprendizado
+|   |   |-- Engenharia
+|   |   |-- ML
+|   |   `-- PythonTools
+|   |-- Data Science
+|   |   |-- DataDrills
+|   |   |-- Datasets
+|   |   |-- Kaggle
+|   |   `-- Udemy
+|   |       |-- Data
+|   |       `-- Udemy - Statistics
+|   |-- Desafios
+|   |-- estrutura_arquivos.txt
+|   |-- importar_github.ipynb
+|   |-- Projetos
+|   |   |-- FEM solver
+|   |   |-- Fenics
+|   |   |-- Openpyxl
+|   |   |-- Projeto salao da dri
+|   |   |-- Pygame
+|   |-- TCC
+|   |   `-- PINNs
+|   `-- UFF
